@@ -1,0 +1,41 @@
+
+:root {
+    --measureSizeSizingSizingSz100: 8px;    
+    --measureSizeSizingSizingSz200: 16px;    
+    --measureSizeSizingSizingSz300: 24px;    
+    --measureSizeSizingSizingSz400: 32px;    
+    --measureSizeSizingSizingSz500: 48px;    
+    --measureSizeSizingSizingSz600: 80px;    
+    --measureSizeSizingSizingSz700: 128px;    
+    --measureSizeSizingSizingSz800: 256px;    
+    --measureSizeSizingSizingSz900: 512px;    
+    --measureBorderRadiusBorderRadiusBorderRadiusBr02: 2px;    
+    --measureBorderRadiusBorderRadiusBorderRadiusBr04: 4px;    
+    --measureBorderRadiusBorderRadiusBorderRadiusBr08: 8px;    
+    --measureBorderRadiusBorderRadiusBorderRadiusBr20: 20px;    
+    --measureBorderRadiusBorderRadiusBorderRadiusBr40: 40px;    
+    --measureBorderRadiusBorderRadiusBorderRadiusBr60: 60px;    
+    --measureBorderRadiusBorderRadiusBorderRadiusBr80: 80px;    
+    --measureBorderRadiusBorderRadiusBorderRadiusBrFull: 999px;    
+    --measureBorderWidthBorderWidthBorderWidthBw100: 0.66px;    
+    --measureBorderWidthBorderWidthBorderWidthBw200: 1px;    
+    --measureBorderWidthBorderWidthBorderWidthBw300: 2px;    
+    --measureBorderWidthBorderWidthBorderWidthBw400: 4px;    
+    --measureDimensionSpacingTokensNone: 0px;    
+    --measureDimensionSpacingTokensTiny: 4px;    
+    --measureDimensionSpacingTokensXsmall: 8px;    
+    --measureDimensionSpacingTokensSmall: 12px;    
+    --measureDimensionSpacingTokensMedium: 16px;    
+    --measureDimensionSpacingTokensLarge: 20px;    
+    --measureDimensionSpacingTokensXlarge: 24px;    
+    --measureDimensionSpacingTokensXxlarge: 32px;    
+    --measureDimensionSpacingTokens3x: 48px;    
+    --measureDimensionSpacingTokens4x: 64px;    
+    --measureDimensionBorderRadiusBr04: 4px;    
+    --measureDimensionBorderWidthBw100: 0.6600000262260437px;    
+    --measureDimensionBorderWidthBw200: 1px;    
+    --measureDimensionBorderWidthBw300: 2px;    
+    --measureDimensionBorderWidthBw400: 4px;    
+    --measureDimensionBorderRadiusBr08: 8px;    
+    --measureDimensionBorderRadiusBrFull: 999px;    
+}

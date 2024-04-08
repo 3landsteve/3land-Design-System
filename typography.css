@@ -1,0 +1,49 @@
+            
+            
+            .typographyMediumBig2FontSize 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 24px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMediumBigFontSize 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 20px;
+              line-height: 30px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMediumMediumFontSize 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 16px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyMediumSmallFontSize 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 12px;
+              line-height: 18px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }
